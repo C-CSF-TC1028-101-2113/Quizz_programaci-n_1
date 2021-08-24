@@ -4,7 +4,7 @@
 
 La razón áurea es un número irracional,​ representado por la letra griega phi en honor al escultor griego Fidias. Este número aparece repetidamente en el mundo que nos rodea, La proporción áurea podremos encontrarla en el arte, la música e incluso en las proporciones de nuestro cuerpo. En matemáticas, la razón áurea será una forma de dividir un segmento en 2 partes: lo pequeño es a lo grande como lo grande es al todo. Su valor se calcula de la siguiente manera:
 
-varphi = (1+sqrt(5))/2
+varphi = (1 + raizcuadrada(5))/2
 
 
 **Entradas:**
