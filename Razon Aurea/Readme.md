@@ -7,12 +7,13 @@ La razón áurea es un número irracional,​ representado por la letra griega p
 varphi = (1 + raizcuadrada(5))/2
 
 
+
 **Entradas:**
 Un número flotante que representa el número por el cuál se multiplicará la razón aurea (resultado de la fórmula).
 Un entero que representa el número de cifras decimales para el despliegue del número.
 (Los valores se deben ingresar cada uno en un renglón y en el orden indicado). 
 
-**Nota:** Hay una funcion que te provee Python para realizar un redondeo hasta una cantidad especifica de numeros decimales.
+**Nota:** raizcuadrada no existe, ¿cual es la funcion correcta que debes utilizar?. Hay una funcion que te provee Python para realizar un redondeo hasta una cantidad especifica de numeros decimales.
 
 **Salida:**
 La razón áurea
